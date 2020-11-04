@@ -10,6 +10,8 @@ Prototype for automation generic library and demonstrative application.
 * `SoftwareControllerLib` - provides generic implementations for the automation interfaces.
 * `WebCollector` - command line application for parsing a HTML page using a given configuration file. Makes use of the generic automation solution.
 
-## Development instructions
+## Repository setup
 
-Clone this repository and run `git submodule update --init --recursive` from the command line, so that component repositories are checked out.
+* Clone this repository by running `git clone https://github.com/vadrianc/AutomationPrototype.git`.
+* Change directory to the newly cloned repository, i.e. `cd AutomationPrototype/`
+* Initialize all submodules recursively with `git submodule update --init --recursive`.

@@ -1,0 +1,6 @@
+[submodule "WebCollector"]
+	path = WebCollector
+	url = https://github.com/vadrianc/WebCollector
+[submodule "SoftwareController"]
+	path = SoftwareController
+	url = https://github.com/vadrianc/SoftwareController

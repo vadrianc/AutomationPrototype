@@ -2,7 +2,7 @@
 
 ## Description
 
-Prototype for automation generic library and demonstrative application.
+Prototype for automation with generic library and demonstrative application.
 
 ## Contents
 
